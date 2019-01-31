@@ -3,4 +3,5 @@ Chocolatey and PS scripts to deploy and configure a fully-functioning developer 
 Info: https://chocolatey.org/
 
 To Use: Build a new VM based on any Windows image.
-Run 
+
+Simply Run the ps1 command to prep the machine for IIS work, then "choco install choco.config" ot install all developer tools. 
