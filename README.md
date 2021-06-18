@@ -7,4 +7,6 @@ Info: https://chocolatey.org/
 
 2. Setup the machine for IIS (web) work : run EnableIISFeatures.ps1 
 
-3. Install developer tools : run "choco install choco.config" from cmd.exe 
+3. Install git for Windows https://gitforwindows.org/ and create a new folder to pull this repo "git init", followed by "git pull https://github.com/rbmathis/WinDevMachineSetup.git"
+
+4. Install developer tools : run "choco install choco.config" from cmd.exe 
